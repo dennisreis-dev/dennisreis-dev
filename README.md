@@ -1,5 +1,5 @@
 * 👋 Olá, sou Dennis Reis
-* 👀 Estou interessado em me tornar um full stack
+* 👀 Estou atualmente atual na area de infraestrutura e DEVOPs
 * 🌱 Atualmente estou aprendendo Python, CSS, HTML 5 e JavaScipt
 * 💞️ Busco colaborar com projetos em DevOps
 * 📫 Como chegar até mim:
@@ -7,7 +7,7 @@
 EN
 
 * 👋 Hi, I’m Dennis Reis
-* 👀 I'm interested in becoming a full stack
+* 👀 I´m currently up to date in the infrastructure and DevOps area
 * 🌱 I’m currently learning Python, CSS, HTML 5 e JavaScipt
 * 💞️ I seek to collaborate with projects in DevOps
 * 📫 How to reach me:
